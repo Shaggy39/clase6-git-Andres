@@ -6,6 +6,12 @@ Puyo
 masculino
 80kg
 
-#caracteristicas del computador
-
 #caracteristicas del programa
+Git 2.36.1
+Python 3.4
+
+
+#caracteristicas del computador
+procesador 2,60hz
+windows 11
+ram 128gb
